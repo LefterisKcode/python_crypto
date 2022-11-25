@@ -17,6 +17,7 @@ cn2 = len(enc_arr2)
 k = 0
 cnt = 0
 q = 0
+i = 0
 
 while k < cn:
     try:
